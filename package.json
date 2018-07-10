@@ -1,10 +1,10 @@
 {
   "name": "nativescript-vue-target",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Webpack target for NativeScript-Vue",
   "main": "index.js",
   "peerDependencies": {
-    "webpack": "3.x"
+    "webpack": "3.x || 4.x"
   },
   "repository": {
     "type": "git",
